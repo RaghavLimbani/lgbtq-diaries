@@ -2,7 +2,7 @@
 
 For now it's just a part of Hackathon Organized by the MLH community named `PrideHack`.
 
-**Aim** :
+## Aim :
 It aims to help the LGBTQ+ community by giving them a platform where they can share their Stories of them which will empower the community.
 
 ## Features
