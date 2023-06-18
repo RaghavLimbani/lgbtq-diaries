@@ -1,4 +1,2 @@
 virtualEnv/
-lgbtq_stories/lgbtq_stories/__pycache__/
-lgbtq_stories/users/__pycache__/
 lgbtq_stories/db.sqlite3
